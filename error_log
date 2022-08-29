@@ -1,0 +1,20 @@
+[22-Jan-2020 22:03:54 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2197
+[22-Jan-2020 22:03:54 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[23-Jan-2020 00:36:11 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2197
+[23-Jan-2020 00:36:11 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[31-Jan-2020 19:26:40 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2197
+[31-Jan-2020 19:26:40 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[02-May-2020 16:56:15 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2193
+[02-May-2020 16:56:15 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[11-May-2020 19:42:44 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2193
+[11-May-2020 19:42:44 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[12-May-2020 11:14:41 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2193
+[12-May-2020 11:14:41 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[12-May-2020 21:36:59 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2193
+[12-May-2020 21:36:59 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[13-May-2020 09:51:03 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/class-wp-query.php on line 2193
+[13-May-2020 09:51:03 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/blaqou5/americashomefinancial.com/wp-includes/canonical.php on line 217
+[05-Jun-2020 16:02:55 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/blaqou5/americashomefinancial.com/wp-includes/wp-db.php on line 2007
+[05-Jun-2020 16:02:55 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/blaqou5/americashomefinancial.com/wp-includes/wp-db.php on line 2007
+[16-Nov-2021 20:18:22 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[08-Apr-2022 05:30:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/blaqou5/americashomefinancial.com/wp-includes/update.php on line 693
